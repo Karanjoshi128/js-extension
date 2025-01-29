@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Lynkie",
+    "version": "2.0",
+    "description": "An extension to manage (copy and access Social media links) all your social media links in one place.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  

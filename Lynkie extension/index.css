@@ -1,0 +1,141 @@
+.main-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.group1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.cursor-pointer {
+  cursor: pointer;
+}
+.group1-group1 {
+  margin-top: 3rem;
+  width: 420px;
+  height: 448px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(203, 213, 225, 1);
+  border-radius: 15px;
+}
+ 
+.group1-rectangle19 {
+  top: 32px;
+  left: 158px;
+  width: 99px;
+  height: 98px;
+  position: absolute;
+}
+ 
+.group1-rectangle23 {
+  top: 32px;
+  left: 19px;
+  width: 99px;
+  height: 98px;
+  position: absolute;
+  border-radius: 15px;
+}
+ 
+.group1-rectangle22 {
+  top: 184px;
+  left: 158px;
+  width: 99px;
+  height: 98px;
+  position: absolute;
+  border-radius: 15px;
+}
+ 
+.group1-rectangle21 {
+  top: 184px;
+  left: 19px;
+  width: 99px;
+  height: 98px;
+  position: absolute;
+  border-radius: 15px;
+}
+ 
+.group1-rectangle20 {
+  top: 32px;
+  left: 298px;
+  width: 99px;
+  height: 98px;
+  position: absolute;
+  border-radius: 15px;
+}
+ 
+.group1-line1 {
+  top: 570px;
+  left: 30px;
+  width: 367px;
+  height: 4px;
+  position: absolute;
+}
+ 
+.group1-text {
+  top: 570px;
+  left: 114px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Amaranth;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.group1-linkedin4c84v-ow {
+  top: 54px;
+  left: 44px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.group1-xkbr6auc {
+  top: 206px;
+  left: 41px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.group1-add-h-gm-qy-f9k {
+  top: 206px;
+  left: 180px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.group1-githubgo8n-pzp0 {
+  top: 54px;
+  left: 182px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}
+ 
+.group1-instagram-fvbun5f5 {
+  top: 54px;
+  left: 320px;
+  width: 55px;
+  height: 55px;
+  position: absolute;
+}

@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+  #output {
+    margin: 10px;
+    font-size: 14px;
+  }
+  #map-container {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    height: calc(100% - 100px); /* Dynamically adjust map size based on popup */
+  }
+  
